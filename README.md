@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Digital Media Portfolio
 
 You can use the [editor on GitHub](https://github.com/freerider30/2020Digital-Media-Portfolifo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
